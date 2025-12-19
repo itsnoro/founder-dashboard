@@ -162,7 +162,7 @@ This project was built with attention to detail and modern best practices.
 
 ## License
 
-MIT License - feel free to use this project for your portfolio or learning purposes.
+MIT License - feel free to use this project for learning purposes.
 
 ---
 
