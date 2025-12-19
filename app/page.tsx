@@ -8,8 +8,8 @@ import { Input } from "@/components/ui/Input";
 
 export default function LoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [email, setEmail] = useState("demo@metricflow.io");
+  const [password, setPassword] = useState("demo123");
   const [errors, setErrors] = useState<{ email?: string; password?: string }>(
     {}
   );
@@ -65,6 +65,11 @@ export default function LoginPage() {
             <p className="text-dark-600 dark:text-dark-400">
               Welcome back. Sign in to continue.
             </p>
+            <div className="mt-4 p-3 bg-primary-50 dark:bg-primary-900/20 rounded-lg border border-primary-200 dark:border-primary-800">
+              <p className="text-sm text-primary-700 dark:text-primary-300 font-medium">
+                🎯 Demo Mode: Enter any email and password (6+ chars) to explore
+              </p>
+            </div>
           </div>
 
           {/* Form */}
