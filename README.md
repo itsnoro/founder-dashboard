@@ -8,6 +8,23 @@ A modern, production-quality SaaS dashboard for startup founders to track metric
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwind-css)
 
+## Screenshots
+
+### Login
+![Login Page](screenshots/Login/2025-12-19_19-03.png)
+
+### Dashboard
+![Dashboard Overview](screenshots/Dashboard/2025-12-19_18-56.png)
+![Dashboard Metrics](screenshots/Dashboard/2025-12-19_18-56_1.png)
+
+### Analytics
+![Analytics Page](screenshots/Analytics/2025-12-19_18-57.png)
+![Analytics Charts](screenshots/Analytics/2025-12-19_18-57_1.png)
+
+### Settings
+![Settings Page](screenshots/Settings/2025-12-19_18-58.png)
+![Settings Preferences](screenshots/Settings/2025-12-19_18-59.png)
+
 ## Features
 
 ### 📊 Comprehensive Dashboard
