@@ -2,11 +2,26 @@
 
 A modern, production-quality SaaS dashboard for startup founders to track metrics, monitor growth, and make data-driven decisions.
 
+## 🚀 [Live Demo](https://founder-dashboard-lime.vercel.app/)
+
+**Try it now:** [https://founder-dashboard-lime.vercel.app/](https://founder-dashboard-lime.vercel.app/)
+
 ![MetricFlow Dashboard](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwind-css)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://founder-dashboard-lime.vercel.app/)
 
 ## Features
+
+### 🎯 Live Demo Credentials
+
+Simply visit the [live demo](https://founder-dashboard-lime.vercel.app/) and sign in with:
+- **Any valid email** (e.g., demo@metricflow.io)
+- **Any password** (6+ characters)
+
+*Note: Authentication is UI-only for demonstration purposes.*
+
+---
 
 ### 📊 Comprehensive Dashboard
 - Real-time metrics tracking (Users, Revenue, Conversion Rate, Active Sessions)
@@ -44,7 +59,17 @@ A modern, production-quality SaaS dashboard for startup founders to track metric
 
 ## Getting Started
 
-### Prerequisites
+### 🌐 View Live Demo
+
+The easiest way to see MetricFlow in action:
+
+**[https://founder-dashboard-lime.vercel.app/](https://founder-dashboard-lime.vercel.app/)**
+
+---
+
+### 💻 Run Locally
+
+#### Prerequisites
 
 - Node.js 18.x or higher
 - npm or yarn
@@ -129,6 +154,12 @@ npm start
 
 ## Deployment
 
+### ✅ Currently Deployed
+
+This project is live at: **[https://founder-dashboard-lime.vercel.app/](https://founder-dashboard-lime.vercel.app/)**
+
+### Deploy Your Own
+
 This project is ready to deploy on:
 
 - **Vercel** (Recommended)
@@ -158,7 +189,10 @@ vercel
 
 ## Created by Noro
 
-This project was built with attention to detail and modern best practices.
+This project was built with attention to detail and modern best practices as a portfolio demonstration piece.
+
+**Live Demo:** [https://founder-dashboard-lime.vercel.app/](https://founder-dashboard-lime.vercel.app/)  
+**GitHub:** [https://github.com/itsnoro/founder-dashboard](https://github.com/itsnoro/founder-dashboard)
 
 ## License
 
